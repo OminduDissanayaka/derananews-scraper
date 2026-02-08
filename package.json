@@ -1,0 +1,34 @@
+{
+  "name": "derananews-scraper-demo",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@omindu/scrapely": "^1.0.0"
+  },
+  "author": "OminduDissanayaka",
+  "description": "Educational demonstration project showcasing how to build a news scraper using @omindu/scrapely npm package. NOT FOR NPM PUBLISHING - Open source educational project only.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OminduDissanayaka/derananews-scraper.git"
+  },
+  "keywords": [
+    "scrapely",
+    "web-scraping",
+    "educational",
+    "demonstration",
+    "tutorial",
+    "derana-news",
+    "scraper-example",
+    "omindu-scrapely"
+  ],
+  "bugs": {
+    "url": "https://github.com/OminduDissanayaka/derananews-scraper/issues"
+  },
+  "homepage": "https://github.com/OminduDissanayaka/derananews-scraper#readme"
+}
